@@ -81,9 +81,11 @@ nav a:hover{
     background-repeat: no-repeat;
     padding-left: 20px;
   }
-  global blockquote{
+
+  blockquote{
     background-color: #FFE597;
   }
+
   ul{
     list-style-type: square;
   }
