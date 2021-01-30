@@ -84,7 +84,7 @@ nav a:hover{
   global blockquote{
     background-color: #FFE597;
   }
-  global ul{
+  ul{
     list-style-type: square;
   }
   global a{
