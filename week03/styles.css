@@ -70,11 +70,11 @@ nav a:hover{
     padding: 10px;
   }
 
-  global h1{
+  h1{
     color: #8C9273;
   }
 
-  global h2{
+  h2{
     border-left: 20px solid: #8C9273;
     border-bottom: 5px solid: #8C9273;
     padding-left: 5px;
@@ -94,11 +94,11 @@ nav a:hover{
     list-style-type: square;
   }
 
-  global a{
+  a{
     color: #7C1A00;
     font-weight: bold;
   }
 
-  global a:hover{
+  a:hover{
     background-color: #FFE597;
   }
