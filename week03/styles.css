@@ -35,6 +35,13 @@ nav ul{
   list-style-type: none;
   color: #7C1A00;
   }
+  nav li{
+    margin:10px;
+    border:1px;
+    border-style: solid;
+    border-color: #7C1A00;
+    background-color: #FFE597;
+  }
 
 nav a{
   color: white;
@@ -45,3 +52,23 @@ nav a{
 nav a:hover{
   background-color: #7C1A00;
 }
+#container{
+  background-image: url("trans-bg.gif");
+  border: 1px solid #cccccc;
+  margin-left: 180px;
+  padding: 10px;
+  }
+
+  footer{
+    clear: both;
+    text-align: center;
+  }
+
+  footer li{
+    display: inline;
+    padding: 10px;
+  }
+  global h1{
+    color: #8C9273;
+  }
+  
