@@ -21,6 +21,10 @@ header h1{
   background-position: top left;
 }
 
+#container{
+  margin-bottom: 30px;
+}
+
 h1 {
   color: #8C9273;
   }
@@ -32,9 +36,6 @@ h1 {
   }
 
 
-#container{
-  margin-bottom: 30px;
-}
 #content{
   background-image: url("trans-bg.gif");
   border: 1px solid: #cccccc;
