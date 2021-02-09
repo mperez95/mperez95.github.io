@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mexican Tortilla Pizza</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300|Cinzel+Decorative:700" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+      <h1>Awesome Recipes!</h1>
+      <img src="dove.png" alt="a simple dove logo">
+
+
+      <ul>
+        <li><span>Home</span></li>
+        <li><a href="#">All Recipes</a></li>
+        <li><a href="#">Photos</a></li>
+        <li><a href="#">Videos</a></li>
+        <li><a href="#">Reviews</a></li>
+      </ul>
+
+
+      <h2>Mexican Pizza Recipe!</h2>
+
+      <p>We crisp up the tortillas in the oven and then top them with Refried Beans, salsa, and shredded cheese. They go back in the oven for a hot minute, just until the cheese is melted, and then we top them with all of our favorite toppings. We like to add tomatoes, black olives, avocado, cilantro, and green onion. Feel free to add your favorite Mexican toppings!
+
+Cut the tortilla pizza into slices and serve immediately! The pizza is crispy and delicious!</p>
+
+      <ul><li><span>Ingredients</span></li>
+        <li><a href="#">4 whole wheat tortillas</a></li>
+        <li><a href="#">1 cup refried beans</a></li>
+        <li><a href="#">1/2 cup salsa</a></li>
+        <li><a href="#">1/2 cup shredded mexican blend cheese</a></li>
+        <li><a href="#">1/2 cup sour cream</a></li>
+        <li><a href="#">1/2 cup diced green onions</a></li>
+       </ul>
+
+      <h2>Mexican Tortilla Pizza</h2>
+
+      <a href="favorite-1.jpg"><img src="favorite-1_th.jpg" alt="Small black bird, black claws, long black slender beak, links to larger version of the image"></a>
+     
+      <p>Check out the rest of the website for more great recipes!</p>
+
+      <p>copyrights reserved to us</p>
+
+  </body>
+</html>
