@@ -66,6 +66,9 @@ body > * {
   border: 3px solid white;
 
 }
+img{
+  padding:40px 40px 40px 120px;
+}
 
 main, header, nav, article, aside, footer, section {
   background-color:#FAEBD7;
@@ -92,6 +95,7 @@ nav {
   height: 50px;
   flex: 100%;
   display: flex;
+  border: 3px solid white;
 }
 
 nav ul {
