@@ -62,7 +62,7 @@ body > * {
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgb(128, 128, 128);
+  background-color:#FAEBD7;
   padding: 1%;
 }
 
@@ -121,12 +121,20 @@ aside {
   flex: 1;
   margin-left: 10px;
   padding: 1%;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+
 }
 
 aside a {
   display: block;
   float: left;
   width: 50%;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+
 }
 
 aside img {
