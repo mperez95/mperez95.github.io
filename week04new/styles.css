@@ -147,7 +147,7 @@ aside {
 
 aside a {
   display: block;
-  float: left;
+  float: center;
   width: 50%;
 
 }
