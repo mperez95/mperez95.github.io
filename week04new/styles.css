@@ -62,11 +62,16 @@ header {
 body > * {
   background-color: #FFF5EE;
   padding: 1%;
+
 }
 
 main, header, nav, article, aside, footer, section {
   background-color:#FAEBD7;
   padding: 1%;
+  text-align: left;
+}
+section{
+  border: 3px solid #778899;
   text-align: left;
 }
 
