@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #7FFFD4;
 }
 
 body {
@@ -25,7 +25,7 @@ h1, h2, h3 {
 
 p, input, li {
   font-family: 'Roboto Condensed', sans-serif;
-  color:#7FFFD4;
+  color:#2a2a2a;
 }
 
 h1 {
