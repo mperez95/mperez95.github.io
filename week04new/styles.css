@@ -33,6 +33,7 @@ h1 {
   font-size: 4rem;
   text-align: center;
   text-shadow: 2px 2px 10px black;
+  border: 3px solid white;
 }
 
 h2 {
@@ -122,7 +123,6 @@ article, section {
 
 aside {
   flex: 1;
-  margin-left: 10px;
   padding: 1%;
   display: block;
  margin-left: auto;
