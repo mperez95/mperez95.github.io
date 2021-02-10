@@ -87,6 +87,7 @@ h1 {
   flex: 5;
   text-transform: uppercase;
   text-align: center;
+  border: 3px solid #778899;
 }
 
 header img {
