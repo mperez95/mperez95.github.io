@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #778899;
 }
 
 body {
@@ -32,6 +32,7 @@ h1 {
   font-size: 4rem;
   text-align: center;
   text-shadow: 2px 2px 10px black;
+  border-style: double;
 }
 
 h2 {
@@ -54,16 +55,22 @@ header {
   margin-bottom: 10px;
   display: flex;
   flex-flow: row wrap;
+  border: 3px solid white;
 }
 
 body > * {
-  background-color: red;
-  padding: 1%;
+background-color: #FFF5EE;
+padding: 1%;
+border: 3px solid white;
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgba(0,255,0,0.5);
-  padding: 1%;
+background-color:#FAEBD7;
+padding: 1%;
+}
+section{
+  border: 3px solid #778899;
+
 }
 
 h1 {
